@@ -1,1 +1,2 @@
-# douwes_git
+#Douwe Git
+# this site is aviable for share bash files and project descriptions
